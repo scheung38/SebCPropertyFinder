@@ -1,0 +1,3 @@
+rootProject.name = 'SebCPropertyFinder'
+
+include ':app'
